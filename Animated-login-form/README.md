@@ -4,7 +4,9 @@ This repository contains the code for an animated Glassmorphism login page creat
 
 ## Preview
 
-<img width="960" alt="Screenshot 2024-02-07 004638" src="https://github.com/Aditya-219/CSS-Projects/assets/128606677/ab62a335-2ab7-4050-8cee-17f9d2d4764b">
+
+https://github.com/Aditya-219/CSS-Projects/assets/128606677/4baf11a5-9421-4021-986d-712c43f4d3e5
+
 
 ## Project Structure
 
